@@ -43,3 +43,12 @@ figure img {
     width: 100%;
 }
 
+.contato_subtitulo {
+    display: inline;
+}
+
+.contato_info {
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
